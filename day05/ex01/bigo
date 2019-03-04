@@ -1,0 +1,2 @@
+O(n!) time. Where n is the size of the pizza.
+O(n) space.

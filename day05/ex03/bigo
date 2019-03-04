@@ -1,0 +1,2 @@
+O(n * m) time, where n is the number of rows and m is the number of columns
+O(n * m) space

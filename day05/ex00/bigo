@@ -1,0 +1,2 @@
+O(n!) time, with n the number given as a parameter
+O(n^2) space
